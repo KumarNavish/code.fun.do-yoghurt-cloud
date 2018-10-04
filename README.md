@@ -1,4 +1,3 @@
-# code.fun.do-yoghurt-cloud
 
 
 ![alt text](ai-iot-flowchart.png)
@@ -8,7 +7,7 @@
 * Relatively more concrete prediction of *susceptibility* and other details like time and site of impact of the disaster can be done by using several articles from various forecasting agencies and applying *weighted summarization using NLP* on it. 
 
 ### Pre-emptive measures: 
-*Measures to be taken from the time of confident prediction of the disaster till the moment it strikes. 
+*Measures to be taken from the time of confident prediction of the disaster till the moment it strikes.*
 
 * *Thermal imaging* is done using *drones* to identify places with high population density in order to efficiently disseminate the network of relief camps. *Population hotspots* are obtained using *semi-supervised CNNs*.
 * *Hyperspectral imaging* for geographic analysis to predict possible chain reactions caused by the aftermath (landslides, etc) and to find places with required geographical integrity to set up camps using *semi-supervised CNNs*. Such places are marked unstable and will be evacuated first.
